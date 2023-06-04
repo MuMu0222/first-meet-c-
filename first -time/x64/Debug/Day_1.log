@@ -1,0 +1,4 @@
+﻿  d2.c
+D:\C language\first-meet-c-\first -time\d2.c(9,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C language\first-meet-c-\first -time\d2.c(10,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Day_1.vcxproj -> D:\C language\first-meet-c-\first -time\x64\Debug\Day_1.exe

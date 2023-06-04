@@ -1,0 +1,2 @@
+D:\C language\first-meet-c-\Day_1\x64\Debug\Day_1.exe
+D:\C language\first-meet-c-\first -time\x64\Debug\Day_1.exe
