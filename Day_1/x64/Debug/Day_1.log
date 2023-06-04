@@ -1,0 +1,3 @@
+﻿  d1.c
+D:\C language\first-meet-c-\Day_1\d1.c(15,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“const int *”
+  Day_1.vcxproj -> D:\C language\first-meet-c-\Day_1\x64\Debug\Day_1.exe
