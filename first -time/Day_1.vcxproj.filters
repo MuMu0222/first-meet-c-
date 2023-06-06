@@ -21,5 +21,14 @@
     <ClCompile Include="d2.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="d3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d4.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d5.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
