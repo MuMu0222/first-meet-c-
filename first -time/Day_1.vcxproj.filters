@@ -30,5 +30,14 @@
     <ClCompile Include="d5.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="d6.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d7.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d8.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
